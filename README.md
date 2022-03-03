@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Zohar! 👋</h1>
 
-- 🔭 I’m currently looking for **a junior position**
+- 👯 A tech lover but also a people's person, courage & creativity are my go-tos, I'm an autodidact and I do it fast.
 
-- 👯 I'm a Tech lover **but also a people's person**
+- 🐲 I enjoy the challenge in programming, the constant learning and the capability to create a world through a simple keyboard.
 
-- 🧗‍♂️ Proficient in **building single-page apps**
+- 🧗‍♂️ Proficient in building single-page apps.
 
 - 👨‍💻 I recently built a clone of Monday.com, check it out! [https://app-2day.herokuapp.com](https://app-2day.herokuapp.com)
 
