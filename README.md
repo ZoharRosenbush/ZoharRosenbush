@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Zohar! 👋</h1>
-<h3 align="center">Passionate Full-Stack developer.</h3>
 
 - 🔭 I’m currently looking for **a junior position**
 
